@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    height: 100vh;
+}
+
+.row{
+    display: inline-block;
+}
+.item{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border: 1px solid #ccc;
+
+}
